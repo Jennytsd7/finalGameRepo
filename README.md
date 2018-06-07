@@ -7,6 +7,8 @@ Language used- c#
 Team contribution:
 
 Karan- User mode  
-Kaushal- AI part 
+Kaushal- AI part
+
 Janani- database
+
 Pooja- UI
